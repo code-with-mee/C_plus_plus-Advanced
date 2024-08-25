@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53FFC77C-09BE-40AC-B593-8A9A977DB39D}|20-Share Pointer\\20-Share Pointer.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\20-Share Pointer\\20-Share Pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{53FFC77C-09BE-40AC-B593-8A9A977DB39D}|20-Share Pointer\\20-Share Pointer.vcxproj|solutionrelative:20-Share Pointer\\20-Share Pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7104C4A1-DF2B-4C79-995E-2D81E38C57BC}|24 TemplateDictionary\\24 TemplateDictionary.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\24 TemplateDictionary\\24 TemplateDictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7104C4A1-DF2B-4C79-995E-2D81E38C57BC}|24 TemplateDictionary\\24 TemplateDictionary.vcxproj|solutionrelative:24 TemplateDictionary\\24 TemplateDictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2CA2D28-0827-4447-BD4F-1C8FED2D0C22}|19-SmartPointer\\19-SmartPointer.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\19-SmartPointer\\19-SmartPointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B2CA2D28-0827-4447-BD4F-1C8FED2D0C22}|19-SmartPointer\\19-SmartPointer.vcxproj|solutionrelative:19-SmartPointer\\19-SmartPointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7104C4A1-DF2B-4C79-995E-2D81E38C57BC}|24 TemplateDictionary\\24 TemplateDictionary.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\24 TemplateDictionary\\KeyValuePair.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7104C4A1-DF2B-4C79-995E-2D81E38C57BC}|24 TemplateDictionary\\24 TemplateDictionary.vcxproj|solutionrelative:24 TemplateDictionary\\KeyValuePair.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7104C4A1-DF2B-4C79-995E-2D81E38C57BC}|24 TemplateDictionary\\24 TemplateDictionary.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\24 TemplateDictionary\\Dictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7104C4A1-DF2B-4C79-995E-2D81E38C57BC}|24 TemplateDictionary\\24 TemplateDictionary.vcxproj|solutionrelative:24 TemplateDictionary\\Dictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26C02B7-DC0C-4F02-B677-410D6DF451AC}|23 TemplateKeyValuePair\\23 TemplateKeyValuePair.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\23 TemplateKeyValuePair\\23 TemplateKeyValuePair.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B26C02B7-DC0C-4F02-B677-410D6DF451AC}|23 TemplateKeyValuePair\\23 TemplateKeyValuePair.vcxproj|solutionrelative:23 TemplateKeyValuePair\\23 TemplateKeyValuePair.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26C02B7-DC0C-4F02-B677-410D6DF451AC}|23 TemplateKeyValuePair\\23 TemplateKeyValuePair.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\23 TemplateKeyValuePair\\Word.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B26C02B7-DC0C-4F02-B677-410D6DF451AC}|23 TemplateKeyValuePair\\23 TemplateKeyValuePair.vcxproj|solutionrelative:23 TemplateKeyValuePair\\Word.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20-Share Pointer.cpp",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\20-Share Pointer\\20-Share Pointer.cpp",
-              "RelativeDocumentMoniker": "20-Share Pointer\\20-Share Pointer.cpp",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\20-Share Pointer\\20-Share Pointer.cpp",
-              "RelativeToolTip": "20-Share Pointer\\20-Share Pointer.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-19T06:03:41.446Z",
+              "DocumentIndex": 1,
+              "Title": "KeyValuePair.h",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\24 TemplateDictionary\\KeyValuePair.h",
+              "RelativeDocumentMoniker": "24 TemplateDictionary\\KeyValuePair.h",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\24 TemplateDictionary\\KeyValuePair.h",
+              "RelativeToolTip": "24 TemplateDictionary\\KeyValuePair.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-25T04:49:12.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "19-SmartPointer.cpp",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\19-SmartPointer\\19-SmartPointer.cpp",
-              "RelativeDocumentMoniker": "19-SmartPointer\\19-SmartPointer.cpp",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\19-SmartPointer\\19-SmartPointer.cpp",
-              "RelativeToolTip": "19-SmartPointer\\19-SmartPointer.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Dictionary.h",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\24 TemplateDictionary\\Dictionary.h",
+              "RelativeDocumentMoniker": "24 TemplateDictionary\\Dictionary.h",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\24 TemplateDictionary\\Dictionary.h",
+              "RelativeToolTip": "24 TemplateDictionary\\Dictionary.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-25T04:48:54.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "24 TemplateDictionary.cpp",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\24 TemplateDictionary\\24 TemplateDictionary.cpp",
+              "RelativeDocumentMoniker": "24 TemplateDictionary\\24 TemplateDictionary.cpp",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\24 TemplateDictionary\\24 TemplateDictionary.cpp",
+              "RelativeToolTip": "24 TemplateDictionary\\24 TemplateDictionary.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-19T05:45:34.579Z",
+              "WhenOpened": "2024-08-25T04:48:34.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Word.h",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\23 TemplateKeyValuePair\\Word.h",
+              "RelativeDocumentMoniker": "23 TemplateKeyValuePair\\Word.h",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\23 TemplateKeyValuePair\\Word.h",
+              "RelativeToolTip": "23 TemplateKeyValuePair\\Word.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-25T04:47:38.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "23 TemplateKeyValuePair.cpp",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\23 TemplateKeyValuePair\\23 TemplateKeyValuePair.cpp",
+              "RelativeDocumentMoniker": "23 TemplateKeyValuePair\\23 TemplateKeyValuePair.cpp",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\23 TemplateKeyValuePair\\23 TemplateKeyValuePair.cpp",
+              "RelativeToolTip": "23 TemplateKeyValuePair\\23 TemplateKeyValuePair.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-25T04:47:18.396Z",
               "EditorCaption": ""
             }
           ]
