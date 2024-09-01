@@ -1,4 +1,4 @@
 ﻿  6-Assignment Operator Overloading.cpp
   Box.cpp
+D:\2 - IT ACADEMY STEP\Github\C++ Advanced\C_plus_plus-Advanced\C++ Advanced\6-Assignment Operator Overloading\6-Assignment Operator Overloading.cpp(10,9): error C2280: 'Box &Box::operator =(const Box &)': attempting to reference a deleted function
   Generating Code...
-  6-Assignment Operator Overloading.vcxproj -> D:\2 - IT ACADEMY STEP\Github\C++ Advanced\C_plus_plus-Advanced\C++ Advanced\x64\Debug\6-Assignment Operator Overloading.exe

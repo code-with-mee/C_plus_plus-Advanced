@@ -1,5 +1,6 @@
 ﻿  4-Operator Overloading Spaceship.cpp
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
   Box.cpp
+D:\2 - IT ACADEMY STEP\Github\C++ Advanced\C_plus_plus-Advanced\C++ Advanced\4-Operator Overloading Spaceship\4-Operator Overloading Spaceship.cpp(14,23): error C2059: syntax error: '>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
   Generating Code...
-D:\2 - IT ACADEMY STEP\Github\C++ Advanced\C_plus_plus-Advanced\C++ Advanced\4-Operator Overloading Spaceship\4-Operator Overloading Spaceship.cpp(11,23): error C2059: syntax error: '>'

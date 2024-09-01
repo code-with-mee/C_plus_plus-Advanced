@@ -1,6 +1,7 @@
 // 30 Tree.cpp : This file contains the 'main' function. Program execution begins and ends there.
 #include <iostream>
 #include "Node.h"
+#include <vector>
 
 using namespace std;
 
@@ -15,4 +16,11 @@ int main()
     root->DeleteNode(root, 6);
     root->DeleteNode(root, 3);
     root->InOrder(root);
+
+    vector<string> names;
+    names.push_back("hello");
+
+    names.pop_back();
+
+    cout << names.size() << endl;
 }
