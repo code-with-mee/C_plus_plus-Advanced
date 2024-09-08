@@ -1,0 +1,6 @@
+﻿  42 Exception.cpp
+D:\2 - IT ACADEMY STEP\Github\C++ Advanced\C_plus_plus-Advanced\C++ Advanced\42 Exception\42 Exception.cpp(16,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\2 - IT ACADEMY STEP\Github\C++ Advanced\C_plus_plus-Advanced\C++ Advanced\42 Exception\42 Exception.cpp(16,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Math.cpp
+  Generating Code...
+  42 Exception.vcxproj -> D:\2 - IT ACADEMY STEP\Github\C++ Advanced\C_plus_plus-Advanced\C++ Advanced\x64\Debug\42 Exception.exe
