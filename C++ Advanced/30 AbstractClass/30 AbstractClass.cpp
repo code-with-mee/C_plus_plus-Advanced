@@ -6,8 +6,7 @@
 using namespace std;
 
 int main()
-{
-    
+{  
     //Vehicle* vehicle = new Vehicle(); not allow
     Car* car = new Car("BMW");
     car->StartEngine();
