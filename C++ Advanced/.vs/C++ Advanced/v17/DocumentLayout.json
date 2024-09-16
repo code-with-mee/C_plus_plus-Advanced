@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC1D587B-176A-4EDC-9F9D-1886F4001D89}|59 IOListObjecWithFile\\59 IOListObjecWithFile.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\59 IOListObjecWithFile\\IOFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EC1D587B-176A-4EDC-9F9D-1886F4001D89}|59 IOListObjecWithFile\\59 IOListObjecWithFile.vcxproj|solutionrelative:59 IOListObjecWithFile\\IOFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DE332E21-C922-488F-9864-0D0E86EFE168}|51 ConstCast\\51 ConstCast.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\51 ConstCast\\51 ConstCast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE332E21-C922-488F-9864-0D0E86EFE168}|51 ConstCast\\51 ConstCast.vcxproj|solutionrelative:51 ConstCast\\51 ConstCast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IOFile.h",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\59 IOListObjecWithFile\\IOFile.h",
-              "RelativeDocumentMoniker": "59 IOListObjecWithFile\\IOFile.h",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\59 IOListObjecWithFile\\IOFile.h",
-              "RelativeToolTip": "59 IOListObjecWithFile\\IOFile.h",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-15T05:45:06.442Z",
+              "Title": "51 ConstCast.cpp",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\51 ConstCast\\51 ConstCast.cpp",
+              "RelativeDocumentMoniker": "51 ConstCast\\51 ConstCast.cpp",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\51 ConstCast\\51 ConstCast.cpp",
+              "RelativeToolTip": "51 ConstCast\\51 ConstCast.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAABAwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T15:58:37.037Z",
               "EditorCaption": ""
             }
           ]

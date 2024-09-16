@@ -2,19 +2,23 @@
 
 using namespace std;
 
-int ChangeConstValue(int* number)
-{
-    *number = *number + 500;
-    return *number;
+void ModifyNonConst(int* ptr) {
+    *ptr = 99;
+}
+
+void PrintValue(const int* ptr) {
+    ModifyNonConst(const_cast<int*>(ptr));
+
+    cout << "modify value : " << *ptr << endl;
 }
 
 
 int main()
 {
-    int number = 100;
-    const int* numberPtr = &number;
+    int value = 55;
+    const int* constPtr = &value;
 
-    int* numberPtr2 = const_cast<int*>(numberPtr);
-    ChangeConstValue(numberPtr2);
-    cout << "number : " << number << endl;
+    cout << "Original value: " << *constPtr << endl;
+    PrintValue(constPtr);
+    cout << "Final value: " << value << endl;
 }
