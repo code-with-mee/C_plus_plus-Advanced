@@ -9,10 +9,6 @@ int main()
     ofstream file("data.dat", ios::binary);
     if (file.is_open())
     {
-        /*for (auto c : courses)
-        {
-            file << c << endl;
-        }*/
         file.write(
             reinterpret_cast<char*>(&courses),
             sizeof(courses)

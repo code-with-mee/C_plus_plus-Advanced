@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE332E21-C922-488F-9864-0D0E86EFE168}|51 ConstCast\\51 ConstCast.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\51 ConstCast\\51 ConstCast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DE332E21-C922-488F-9864-0D0E86EFE168}|51 ConstCast\\51 ConstCast.vcxproj|solutionrelative:51 ConstCast\\51 ConstCast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BBC8E39F-7BB8-458A-8F38-BEFE6CA03D36}|58 ReadObjectFromFile\\58 ReadObjectFromFile.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBC8E39F-7BB8-458A-8F38-BEFE6CA03D36}|58 ReadObjectFromFile\\58 ReadObjectFromFile.vcxproj|solutionrelative:58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "51 ConstCast.cpp",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\51 ConstCast\\51 ConstCast.cpp",
-              "RelativeDocumentMoniker": "51 ConstCast\\51 ConstCast.cpp",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\51 ConstCast\\51 ConstCast.cpp",
-              "RelativeToolTip": "51 ConstCast\\51 ConstCast.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Title": "58 ReadObjectFromFile.cpp",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp",
+              "RelativeDocumentMoniker": "58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp",
+              "RelativeToolTip": "58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-16T15:58:37.037Z",
+              "WhenOpened": "2024-09-19T09:42:03.552Z",
               "EditorCaption": ""
             }
           ]

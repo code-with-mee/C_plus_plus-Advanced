@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE332E21-C922-488F-9864-0D0E86EFE168}|51 ConstCast\\51 ConstCast.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\51 ConstCast\\51 ConstCast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DE332E21-C922-488F-9864-0D0E86EFE168}|51 ConstCast\\51 ConstCast.vcxproj|solutionrelative:51 ConstCast\\51 ConstCast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{81D58824-26B5-45A8-9CF8-4EA3EBB50E29}|61 FStreamJson\\61 FStreamJson.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\61 FStreamJson\\FileManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81D58824-26B5-45A8-9CF8-4EA3EBB50E29}|61 FStreamJson\\61 FStreamJson.vcxproj|solutionrelative:61 FStreamJson\\FileManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D58824-26B5-45A8-9CF8-4EA3EBB50E29}|61 FStreamJson\\61 FStreamJson.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\61 FStreamJson\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81D58824-26B5-45A8-9CF8-4EA3EBB50E29}|61 FStreamJson\\61 FStreamJson.vcxproj|solutionrelative:61 FStreamJson\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A1FA75-2CC3-4C78-A6C2-4888854F6207}|60  FStreamCollectionObject\\60  FStreamCollectionObject.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\60  FStreamCollectionObject\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85A1FA75-2CC3-4C78-A6C2-4888854F6207}|60  FStreamCollectionObject\\60  FStreamCollectionObject.vcxproj|solutionrelative:60  FStreamCollectionObject\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A1FA75-2CC3-4C78-A6C2-4888854F6207}|60  FStreamCollectionObject\\60  FStreamCollectionObject.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\60  FStreamCollectionObject\\IOOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85A1FA75-2CC3-4C78-A6C2-4888854F6207}|60  FStreamCollectionObject\\60  FStreamCollectionObject.vcxproj|solutionrelative:60  FStreamCollectionObject\\IOOperation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC8E39F-7BB8-458A-8F38-BEFE6CA03D36}|58 ReadObjectFromFile\\58 ReadObjectFromFile.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBC8E39F-7BB8-458A-8F38-BEFE6CA03D36}|58 ReadObjectFromFile\\58 ReadObjectFromFile.vcxproj|solutionrelative:58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "51 ConstCast.cpp",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\51 ConstCast\\51 ConstCast.cpp",
-              "RelativeDocumentMoniker": "51 ConstCast\\51 ConstCast.cpp",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\51 ConstCast\\51 ConstCast.cpp",
-              "RelativeToolTip": "51 ConstCast\\51 ConstCast.cpp",
-              "ViewState": "AgIAAAcAAAAAAAAAAABAwBcAAAABAAAAAAAAAA==",
+              "Title": "FileManager.h",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\61 FStreamJson\\FileManager.h",
+              "RelativeDocumentMoniker": "61 FStreamJson\\FileManager.h",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\61 FStreamJson\\FileManager.h",
+              "RelativeToolTip": "61 FStreamJson\\FileManager.h",
+              "ViewState": "AgIAACwAAAAAAAAAAAA0wD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-19T09:49:25.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.h",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\61 FStreamJson\\Student.h",
+              "RelativeDocumentMoniker": "61 FStreamJson\\Student.h",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\61 FStreamJson\\Student.h",
+              "RelativeToolTip": "61 FStreamJson\\Student.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-19T09:48:19.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.h",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\60  FStreamCollectionObject\\Student.h",
+              "RelativeDocumentMoniker": "60  FStreamCollectionObject\\Student.h",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\60  FStreamCollectionObject\\Student.h",
+              "RelativeToolTip": "60  FStreamCollectionObject\\Student.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-19T09:45:30.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOOperation.h",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\60  FStreamCollectionObject\\IOOperation.h",
+              "RelativeDocumentMoniker": "60  FStreamCollectionObject\\IOOperation.h",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\60  FStreamCollectionObject\\IOOperation.h",
+              "RelativeToolTip": "60  FStreamCollectionObject\\IOOperation.h",
+              "ViewState": "AgIAABwAAAAAAAAAAAA0wDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-19T09:42:49.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "58 ReadObjectFromFile.cpp",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp",
+              "RelativeDocumentMoniker": "58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp",
+              "RelativeToolTip": "58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-16T15:58:37.037Z",
+              "WhenOpened": "2024-09-19T09:42:03.552Z",
               "EditorCaption": ""
             }
           ]
