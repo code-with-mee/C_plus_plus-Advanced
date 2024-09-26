@@ -125,6 +125,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "60  FStreamCollectionObject
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "61 FStreamJson", "61 FStreamJson\61 FStreamJson.vcxproj", "{81D58824-26B5-45A8-9CF8-4EA3EBB50E29}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "62 DemoDirectoryAndFile", "62 DemoDirectoryAndFile\62 DemoDirectoryAndFile.vcxproj", "{3DB947BF-BF88-4728-A95E-C2AA6C9E579C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -621,6 +623,14 @@ Global
 		{81D58824-26B5-45A8-9CF8-4EA3EBB50E29}.Release|x64.Build.0 = Release|x64
 		{81D58824-26B5-45A8-9CF8-4EA3EBB50E29}.Release|x86.ActiveCfg = Release|Win32
 		{81D58824-26B5-45A8-9CF8-4EA3EBB50E29}.Release|x86.Build.0 = Release|Win32
+		{3DB947BF-BF88-4728-A95E-C2AA6C9E579C}.Debug|x64.ActiveCfg = Debug|x64
+		{3DB947BF-BF88-4728-A95E-C2AA6C9E579C}.Debug|x64.Build.0 = Debug|x64
+		{3DB947BF-BF88-4728-A95E-C2AA6C9E579C}.Debug|x86.ActiveCfg = Debug|Win32
+		{3DB947BF-BF88-4728-A95E-C2AA6C9E579C}.Debug|x86.Build.0 = Debug|Win32
+		{3DB947BF-BF88-4728-A95E-C2AA6C9E579C}.Release|x64.ActiveCfg = Release|x64
+		{3DB947BF-BF88-4728-A95E-C2AA6C9E579C}.Release|x64.Build.0 = Release|x64
+		{3DB947BF-BF88-4728-A95E-C2AA6C9E579C}.Release|x86.ActiveCfg = Release|Win32
+		{3DB947BF-BF88-4728-A95E-C2AA6C9E579C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBC8E39F-7BB8-458A-8F38-BEFE6CA03D36}|58 ReadObjectFromFile\\58 ReadObjectFromFile.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBC8E39F-7BB8-458A-8F38-BEFE6CA03D36}|58 ReadObjectFromFile\\58 ReadObjectFromFile.vcxproj|solutionrelative:58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3DB947BF-BF88-4728-A95E-C2AA6C9E579C}|62 DemoDirectoryAndFile\\62 DemoDirectoryAndFile.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\62 DemoDirectoryAndFile\\Bank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DB947BF-BF88-4728-A95E-C2AA6C9E579C}|62 DemoDirectoryAndFile\\62 DemoDirectoryAndFile.vcxproj|solutionrelative:62 DemoDirectoryAndFile\\Bank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AD0C66-65CF-4313-9DC0-4B1CEE59F08C}|27 List\\27 List.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\27 List\\27 List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63AD0C66-65CF-4313-9DC0-4B1CEE59F08C}|27 List\\27 List.vcxproj|solutionrelative:27 List\\27 List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB947BF-BF88-4728-A95E-C2AA6C9E579C}|62 DemoDirectoryAndFile\\62 DemoDirectoryAndFile.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\62 DemoDirectoryAndFile\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DB947BF-BF88-4728-A95E-C2AA6C9E579C}|62 DemoDirectoryAndFile\\62 DemoDirectoryAndFile.vcxproj|solutionrelative:62 DemoDirectoryAndFile\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB947BF-BF88-4728-A95E-C2AA6C9E579C}|62 DemoDirectoryAndFile\\62 DemoDirectoryAndFile.vcxproj|D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\62 DemoDirectoryAndFile\\62 DemoDirectoryAndFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DB947BF-BF88-4728-A95E-C2AA6C9E579C}|62 DemoDirectoryAndFile\\62 DemoDirectoryAndFile.vcxproj|solutionrelative:62 DemoDirectoryAndFile\\62 DemoDirectoryAndFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "58 ReadObjectFromFile.cpp",
-              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp",
-              "RelativeDocumentMoniker": "58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp",
-              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp",
-              "RelativeToolTip": "58 ReadObjectFromFile\\58 ReadObjectFromFile.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "27 List.cpp",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\27 List\\27 List.cpp",
+              "RelativeDocumentMoniker": "27 List\\27 List.cpp",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\27 List\\27 List.cpp",
+              "RelativeToolTip": "27 List\\27 List.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-19T09:42:03.552Z",
+              "WhenOpened": "2024-09-26T15:54:04.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank.h",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\62 DemoDirectoryAndFile\\Bank.h",
+              "RelativeDocumentMoniker": "62 DemoDirectoryAndFile\\Bank.h",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\62 DemoDirectoryAndFile\\Bank.h",
+              "RelativeToolTip": "62 DemoDirectoryAndFile\\Bank.h",
+              "ViewState": "AgIAABUAAAAAAAAAAABAwCEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T15:34:42.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "62 DemoDirectoryAndFile.cpp",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\62 DemoDirectoryAndFile\\62 DemoDirectoryAndFile.cpp",
+              "RelativeDocumentMoniker": "62 DemoDirectoryAndFile\\62 DemoDirectoryAndFile.cpp",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\62 DemoDirectoryAndFile\\62 DemoDirectoryAndFile.cpp",
+              "RelativeToolTip": "62 DemoDirectoryAndFile\\62 DemoDirectoryAndFile.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T15:33:34.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.h",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\62 DemoDirectoryAndFile\\Menu.h",
+              "RelativeDocumentMoniker": "62 DemoDirectoryAndFile\\Menu.h",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C\u002B\u002B Advanced\\C_plus_plus-Advanced\\C\u002B\u002B Advanced\\62 DemoDirectoryAndFile\\Menu.h",
+              "RelativeToolTip": "62 DemoDirectoryAndFile\\Menu.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T15:20:00.12Z",
               "EditorCaption": ""
             }
           ]

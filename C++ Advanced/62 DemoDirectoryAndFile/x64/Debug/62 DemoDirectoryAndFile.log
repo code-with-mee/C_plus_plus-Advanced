@@ -1,0 +1,6 @@
+﻿  62 DemoDirectoryAndFile.cpp
+  Bank.cpp
+  Menu.cpp
+  Generating Code...
+D:\2 - IT ACADEMY STEP\Github\C++ Advanced\C_plus_plus-Advanced\C++ Advanced\62 DemoDirectoryAndFile\Bank.h(102,1): warning C4715: 'Bank::GetIndex': not all control paths return a value
+  62 DemoDirectoryAndFile.vcxproj -> D:\2 - IT ACADEMY STEP\Github\C++ Advanced\C_plus_plus-Advanced\C++ Advanced\x64\Debug\62 DemoDirectoryAndFile.exe
