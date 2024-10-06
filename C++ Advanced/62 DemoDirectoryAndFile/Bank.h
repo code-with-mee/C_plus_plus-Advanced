@@ -91,14 +91,12 @@ public:
 	int GetIndex(string accountNumber)
 	{
 		int index = 0;
-		///*
 		for (auto& account : BankAccounts)
 		{
 			if (account.accountNumber == accountNumber)
 				return index;
 			index++;
 		}
-		//*/
 	}
 
 	void Save()
